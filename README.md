@@ -1,7 +1,7 @@
 # unzipgit
 <img src="https://github.com/unzipgit/unzipgit.github.io/raw/main/images/unzippriview.png" width="1000" />
 
-website: [unzipgit.github.io](https://unzipgit.github.io)
+website: [jackwiel.netlify.app](https://jackwiel.netlify.app)
 --- 
 - With unzipgit, you can unzip a .zip archive to your GitHub repository. Unzipgit uses the jszip library and the GitHub API, which means that all actions take place on the client side (your browser).
 
